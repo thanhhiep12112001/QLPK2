@@ -1,0 +1,26 @@
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.csprojAssemblyReference.cache
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Form1.resources
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Form2.resources
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Form3.resources
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Properties.Resources.resources
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.csproj.GenerateResource.cache
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.csproj.CoreCompileInputs.cache
+C:\Users\phant\source\repos\đồán\đồán\bin\Debug\đồán.exe.config
+C:\Users\phant\source\repos\đồán\đồán\bin\Debug\đồán.exe
+C:\Users\phant\source\repos\đồán\đồán\bin\Debug\đồán.pdb
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.exe
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.pdb
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Form4.resources
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.csprojAssemblyReference.cache
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.exe
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.pdb
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.Properties.Resources.resources
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.csproj.GenerateResource.cache
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.csproj.CoreCompileInputs.cache
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\bin\Debug\đồán.exe.config
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\bin\Debug\đồán.exe
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\bin\Debug\đồán.pdb
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.menu.resources
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.BenhNhan.resources
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.bacsi.resources
+D:\HIEPDEPTRAI\đồ án lthdt\đồán\đồán\obj\Debug\đồán.thuoc.resources

@@ -1,0 +1,10 @@
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\do_an.csprojAssemblyReference.cache
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Form1.resources
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Form2.resources
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Form3.resources
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Form4.resources
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.Properties.Resources.resources
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\do_an.csproj.GenerateResource.cache
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\do_an.csproj.CoreCompileInputs.cache
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.exe
+C:\Users\phant\source\repos\đồán\đồán\obj\Debug\đồán.pdb
